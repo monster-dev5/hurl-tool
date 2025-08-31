@@ -225,3 +225,6 @@ Currently based on Fabric Samples from Hyperledger Fabric.
 * For recommendations, feature requests, or bugs go to our [issues section](https://github.com/worldsibu/hurley/issues).
 * News on Convector, hurley, or WorldSibu, subscribe to our [Newsletter](https://worldsibu.io/subscribe/).
 * Need support? Chat directly with our team, join our [Discord](https://discord.gg/twRwpWt).
+
+
+*I need to update the resume that's because the IT technology is developing continuously.
